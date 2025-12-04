@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@ozmenyasin](https://medium.com/@ozmenyasin)
+- 📝 I regularly write articles on [[https://medium.com/@sametevlce01](https://medium.com/@sametevlce01)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
